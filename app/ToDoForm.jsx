@@ -1,14 +1,13 @@
 import React from 'react';
 import {
-    Button,
-    StyleSheet,
-    TextInput,
-    View,
+  Button,
+  StyleSheet,
+  TextInput,
+  View,
 } from 'react-native';
 
 
 export default function ToDoForm() {
-
 
     return (
       <View style={styles.form}>
